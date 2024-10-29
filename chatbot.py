@@ -9,7 +9,7 @@ nltk.download('punkt')
 pairs = [
     [
         r"my name is (.*)",
-        ["Hello %1, how can I assist you today?", "Hi %1! What can I do for you?","hey %1!,whatsup]
+        ["Hello %1, how can I assist you today?", "Hi %1! What can I do for you?","hey %1!,whatsup"]
     ],
     [
         r"hi|hello|hey",
